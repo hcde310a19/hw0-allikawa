@@ -1,3 +1,18 @@
 # Description of your program (part 7)
+First, create a scanner that can parse through strings and a variable to keep track of the amount of words scanned.
+The scanner should start at the beginning of the document. The variable will start at 0.
+Create a loop that can be used to make the scanner parse through the entire document.
+The loop will continue as long as there is something next in the document.
+For the first string encountered, the word count variable will increment by one.
+Spaces will be used to separate groups of strings as words.
 
 # Reflection on writing your program (part 8)
+I thought the exercise was a little difficult since I had to think more complexly about what a program actually does.
+Having to explain it in words made me realize how succinct programming is compared to plain English, and how much variety there is in written language.
+While writing the description, I felt a bit frustrated since my explanation seemed too lengthy.
+The words made sense in my head, but when I typed it down and looked at it I thought it might be confusing for someone else to read.
+
+Some things I want to get out of this course:
+- Become comfortable enough with Python that I can put it on my resume
+- Understand how programming can be used to make more human-centered designs
+- Create something I can put on my portfolio or talk about in interviews
